@@ -1,7 +1,4 @@
 streamlit
 numpy
-pathlib
-pickle
-math
 scikit-learn
 
