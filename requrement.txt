@@ -1,6 +1,7 @@
-Streamlit
+streamlit
 numpy
 pathlib
 pickle
 math
 scikit-learn
+sklearn
